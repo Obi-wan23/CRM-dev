@@ -1,0 +1,1 @@
+export const serverPath = 'https://darkened-ethereal-coaster.glitch.me/'

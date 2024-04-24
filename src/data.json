@@ -1,0 +1,103 @@
+{
+  "requests": [
+    {
+      "id": "15d7",
+      "name": "Юрий Васильков",
+      "phone": 79125699875,
+      "email": "vonFlipke@mail.de",
+      "product": "course-html",
+      "statusbar": "new",
+      "date": "2024-04-22T15:24:57.659Z"
+    },
+    {
+      "id": "1805",
+      "name": "Василий Пупкин",
+      "phone": 79026361443,
+      "email": "pupo4kin@gmail.com",
+      "product": "course-php",
+      "statusbar": "complete",
+      "date": "2024-04-22T15:24:59.708Z"
+    },
+    {
+      "id": "4c28",
+      "name": "Михаил Зубенко",
+      "phone": 79506667723,
+      "email": "zubenko@gmail.com",
+      "product": "course-js",
+      "statusbar": "new",
+      "date": "2024-04-22T15:25:00.051Z"
+    },
+    {
+      "id": "5977",
+      "name": "Моисей Азбарагуз",
+      "phone": 79225987203,
+      "email": "psycho@ya.ru",
+      "product": "course-php",
+      "statusbar": "new",
+      "date": "2024-04-22T15:25:01.259Z"
+    },
+    {
+      "id": "2b23",
+      "name": "Анатолий Прутиков",
+      "phone": 79925412369,
+      "email": "prutik_tolya@gmail.com",
+      "product": "course-vue",
+      "statusbar": "inwork",
+      "date": "2024-04-22T15:25:01.651Z"
+    },
+    {
+      "id": "0468",
+      "name": "Иван Семёнов",
+      "phone": 79506667723,
+      "email": "semenov_ivan@mail.com",
+      "product": "course-wordpress",
+      "statusbar": "complete",
+      "date": "2024-04-22T15:25:25.434Z"
+    },
+    {
+      "name": "Моисей Азбарагуз",
+      "phone": 79225987203,
+      "email": "psycho@ya.ru",
+      "product": "course-php",
+      "statusbar": "new",
+      "date": "2024-04-22T17:25:37.390Z",
+      "id": "SC2gIyG"
+    },
+    {
+      "name": "Анатолий Прутиков",
+      "phone": 79925412369,
+      "email": "prutik_tolya@gmail.com",
+      "product": "course-vue",
+      "statusbar": "new",
+      "date": "2024-04-22T17:25:37.782Z",
+      "id": "TfYU0D9"
+    },
+    {
+      "name": "Василий Пупкин",
+      "phone": 79026361443,
+      "email": "pupo4kin@gmail.com",
+      "product": "course-php",
+      "statusbar": "new",
+      "date": "2024-04-22T17:25:38.125Z",
+      "id": "X0vnxOo"
+    },
+    {
+      "name": "Анатолий Прутиков",
+      "phone": 79925412369,
+      "email": "prutik_tolya@gmail.com",
+      "product": "course-vue",
+      "statusbar": "new",
+      "date": "2024-04-22T20:44:22.648Z",
+      "id": "WAO_Zfe"
+    },
+    {
+      "name": "Юрий Васильков",
+      "phone": 79125699875,
+      "email": "vonFlipke@mail.de",
+      "product": "course-html",
+      "statusbar": "new",
+      "date": "2024-04-22T20:44:23.042Z",
+      "id": "jbJGyAl"
+    }
+  ]
+}
