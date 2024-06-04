@@ -58,7 +58,7 @@ const Request = ({request}) => {
                       <strong>Дата создания:</strong>
                     </div>
                     <div className="col" id="date">
-                      Дата
+                      {new Date(request.date).toLocaleDateString()}
                     </div>
                   </div>
                   <div className="row mb-3">
